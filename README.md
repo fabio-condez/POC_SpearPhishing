@@ -17,5 +17,5 @@ Other than that, every contribution is welcome 😊
 
 ## License 
 
-POC Spear-Phishing is Licensed under [MIT X11](https://en.wikipedia.org/wiki/MIT_License).
+POC Spear-Phishing is Licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License).
 
