@@ -1,14 +1,21 @@
 # POC Spear-Phishing
 A proof of concept to show how spear-phishing attacks can target RPA automations.
 
-This repository serves to as a reference to an article on the topic of spear-phishing on RPA robots. 
+This repository serves as a reference to an article on the topic of spear-phishing on RPA robots. 
 
 The article: 
 
 As it is explained on the article, the project has implemented a domain list for validation  for overcome the possible problem. ([trusted_domains.xlsx](https://github.com/fabio-condez/POC_SpearPhishing/blob/main/Data/trusted_domains.xlsx)).
 
-# Contributions:
 
-As I want to keep this repository related with the original article, I will probably not accept improvement changes.
 
-But PRs for fixing typos or fixing something that I did not found are welcome 😊
+## Contributions:
+
+As this repository serves as support material to the article, probably I will not accept  improvements that would drastically change the behavior of the project.
+
+Other than that, every contribution is welcome 😊
+
+## License 
+
+POC Spear-Phishing is Licensed under [MIT X11](https://en.wikipedia.org/wiki/MIT_License).
+
