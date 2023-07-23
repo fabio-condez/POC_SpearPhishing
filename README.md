@@ -3,7 +3,7 @@ A proof of concept to show how spear-phishing attacks can target RPA automations
 
 This repository serves as a reference to an article on the topic of spear-phishing on RPA robots. 
 
-The article: 
+The article: https://rpaftw.com/blog/rpa-vulnerable-to-phishing
 
 As it is explained on the article, the project has implemented a domain list for validation  for overcome the possible problem. ([trusted_domains.xlsx](https://github.com/fabio-condez/POC_SpearPhishing/blob/main/Data/trusted_domains.xlsx)).
 
